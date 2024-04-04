@@ -1,14 +1,8 @@
 # Project Description
 ## Overview
 
-We have started our journey of understanding the background and basics of regression in the first project of this series. We understood the fundamentals of regression and created a simple linear regression model.
 
-In this project, we will get familiarised with multiple linear regression. Unlike linear regression, multiple linear regression is used to estimate the relationship between two or more independent variables and one target / dependent variable. 
-
-Before starting this project, please do visit the first project of the series Linear Regression Model Project in Python for Beginners Part 1.
-
- 
-
+In this project, I got familiarised with multiple linear regression. Unlike linear regression, multiple linear regression is used to estimate the relationship between two or more independent variables and one target / dependent variable. 
  
 
 ## Aim
